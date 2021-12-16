@@ -1,5 +1,17 @@
 <template>
-  <div>{{getToken}}</div>
+  <div>
+    <div class="title">
+      <h2>
+        KashiwaSNS!!!
+      </h2>
+    </div>
+    <div>
+      
+    </div>
+    <div>
+    </div>
+
+  </div>
 </template>
 
 <script>
